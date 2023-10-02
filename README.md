@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRAGNYASU123
 - 👀 I’m interested to become a Data Analytics
 - 🌱 I’m currently learning Backend Django
--    I have learned python,HTML,EDA 
+-    I have learned python,HTML,EDA(Learner Phase)
 - 📫 How to reach me follow me on instagram i'd- pragnyasu__
 
 <!---
