@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PRAGNYASU SETHI,Student of ITER 
 - 👀 I’m interested to become a Data Analytics
-- 🌱 I’m currently learning Backend Django
--    I have learned python,HTML,EDA(Learner Phase)
+- 🌱 I’m currently Exploring in Different Fields
+-    I have learned Python,JAVA,HTML,CSS,EDA(Learner Phase)
 - 📫 How to reach me follow me on instagram i'd- pragnyasu__ OR Linkden URL -: www.linkedin.com/in/pragnyasu-sethi-69b340288
 
 <!---
